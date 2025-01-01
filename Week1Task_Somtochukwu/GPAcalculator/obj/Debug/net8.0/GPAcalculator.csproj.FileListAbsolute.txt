@@ -1,0 +1,14 @@
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\bin\Debug\net8.0\GPAcalculator.exe
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\bin\Debug\net8.0\GPAcalculator.deps.json
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\bin\Debug\net8.0\GPAcalculator.runtimeconfig.json
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\bin\Debug\net8.0\GPAcalculator.dll
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\bin\Debug\net8.0\GPAcalculator.pdb
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.AssemblyInfoInputs.cache
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.AssemblyInfo.cs
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.csproj.CoreCompileInputs.cache
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.dll
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\refint\GPAcalculator.dll
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.pdb
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\GPAcalculator.genruntimeconfig.cache
+C:\Users\ENGR. DR. SOMTOCHUKU\Desktop\Week1Task\GPAcalculator\obj\Debug\net8.0\ref\GPAcalculator.dll
