@@ -1,2 +1,2 @@
-# Week1-Task-Somtochukwu
+# GPA_Calculator
 C# Mentorship: GPA Calculator
